@@ -957,7 +957,7 @@
             
             // Initialize variables
             let currentBillionaire = 'Mukesh Ambani';
-            let totalMoney = 8000000000000; // Mukesh Ambani's wealth in INR
+            let totalMoney = 80000000000000; // Mukesh Ambani's wealth in INR
             let spentMoney = 0;
             let itemsCount = 0;
             const receiptItems = {};
